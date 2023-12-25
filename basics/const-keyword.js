@@ -22,3 +22,6 @@ brandObject["brand"] = brand2;
 console.log(brandObject);
 delete brandObject.brand;
 console.log(brandObject);
+
+// When to Use Const vs Let
+// always use const only in loops we use let
